@@ -17,5 +17,5 @@ I applied Following Models:
 5)Logistic Regression
 
 
-I found out that Naive Bayes was performing well with high recall and high ROC-AUC Score of 0.80
+Xgboost outperformed with high roc-auc score
 
